@@ -1,0 +1,107 @@
+[
+    {
+        "type": "income",
+        "catagory": "freelence",
+        "description": "john website edit",
+        "amount": 500,
+        "refrence": "fivver",
+        "date": "2023-02-22T05:24:47.338Z",
+        "createdBy": "63f4af4c3c806435a5a298d9"
+    },
+    {
+        "type": "expense",
+        "catagory": "rent",
+        "amount": 6000,
+        "refrence": "mr.joy",
+        "date": "2023-01-01T05:24:47.338Z",
+        "createdBy": "63f4af4c3c806435a5a298d9"
+    },
+    {
+        "type": "expense",
+        "catagory": "education",
+        "amount": 1000,
+        "refrence": "college fee",
+        "date": "2023-01-06T05:24:47.338Z",
+        "createdBy": "63f4af4c3c806435a5a298d9"
+    },
+    {
+        "type": "expense",
+        "catagory": "travel",
+        "amount": 3000,
+        "refrence": "saputaratour",
+        "date": "2023-01-14T05:24:47.338Z",
+        "createdBy": "63f4af4c3c806435a5a298d9"
+    },
+    {
+        "type": "expense",
+        "catagory": "food",
+        "amount": 700,
+        "refrence": "shahil",
+        "date": "2023-01-20T05:24:47.338Z",
+        "createdBy": "63f4af4c3c806435a5a298d9"
+    },
+    {
+        "type": "expense",
+        "catagory": "food",
+        "amount": 300,
+        "refrence": "dhruv",
+        "date": "2023-01-29T05:24:47.338Z",
+        "createdBy": "63f4af4c3c806435a5a298d9"
+    },
+    {
+        "type": "expense",
+        "catagory": "rent",
+        "amount": 6000,
+        "refrence": "mr.joy",
+        "date": "2023-02-01T05:24:47.338Z",
+        "createdBy": "63f4af4c3c806435a5a298d9"
+    },
+    {
+        "type": "expense",
+        "catagory": "health",
+        "amount": 100,
+        "refrence": "medicine",
+        "date": "2023-02-05T05:24:47.338Z",
+        "createdBy": "63f4af4c3c806435a5a298d9"
+    },
+    {
+        "type": "expense",
+        "catagory": "fun",
+        "amount": 200,
+        "refrence": "movie",
+        "date": "2023-02-20T05:24:47.338Z",
+        "createdBy": "63f4af4c3c806435a5a298d9"
+    },
+    {
+        "type": "income",
+        "catagory": "salary",
+        "amount": 40000,
+        "refrence": "Apple",
+        "date": "2023-01-01T05:24:47.338Z",
+        "createdBy": "63f4af4c3c806435a5a298d9"
+    },
+    {
+        "type": "income",
+        "catagory": "salary",
+        "amount": 40000,
+        "refrence": "Apple",
+        "date": "2023-02-01T05:24:47.338Z",
+        "createdBy": "63f4af4c3c806435a5a298d9"
+    },
+    {
+        "type": "income",
+        "catagory": "freelence",
+        "amount": 3000,
+        "refrence": "mr.john",
+        "date": "2023-02-02T05:24:47.338Z",
+        "createdBy": "63f4af4c3c806435a5a298d9"
+    },
+    {
+        "type": "income",
+        "catagory": "investment",
+        "amount": 2000,
+        "refrence": "Tata-stock",
+        "date": "2023-01-28T05:24:47.338Z",
+        "createdBy": "63f4af4c3c806435a5a298d9"
+    }
+]
